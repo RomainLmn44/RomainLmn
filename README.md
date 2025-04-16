@@ -1,4 +1,4 @@
-![RomainLmn](https://github.com/RomainLmn44/RomainLmn/blob/main/prez2.jpg)
+<a href="https://google.com">![RomainLmn](https://github.com/RomainLmn44/RomainLmn/blob/main/prez2.jpg) </a>
 
 <section align="center">
 
@@ -18,7 +18,7 @@
 
  ![RomainLmn](https://github.com/RomainLmn44/RomainLmn/blob/main/formgraf3.png)
 
- <h2> < Contact /> </h2>
+ <h2> < Projets /> </h2>
 
 </section>
 

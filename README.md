@@ -19,6 +19,9 @@
  ![RomainLmn](https://github.com/RomainLmn44/RomainLmn/blob/main/formgraf3.png)
 
  <h2> < Projets /> </h2>
+ <p> Street Art'Venture : Projet réalisé lors de ma formation Developpeur Web & Web mobile, en groupe de 4 personnes.
+ <br/> Technologies utilisées : Vite.js / React / TypeScript / Node.js / Express.js / Figma / Adobe Illustrator
+ </p>
 
 </section>
 

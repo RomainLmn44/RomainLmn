@@ -23,7 +23,7 @@
   <h2> STREET ART'VENTURE </h2>
  <p> Projet réalisé lors de ma formation Developpeur Web & Web mobile, en groupe de 4 personnes.
  <br/> Technologies utilisées : Vite.js / React / TypeScript / Node.js / Express.js / Figma / Adobe Illustrator
-  <br/> Vidéo de présentation -> <a href="https://app.videas.fr/721886b0-23bb-40f1-8e4a-26d1d33ffcfb" style="text-decoration: none;">ici</a>
+  <br/> Vidéo de présentation -> <a href="https://app.videas.fr/721886b0-23bb-40f1-8e4a-26d1d33ffcfb" style="text-decoration: none;"> &#128065; </a>
 
 
 
@@ -37,7 +37,7 @@
    <h2> NANT'EVENT </h2>
  <p> Projet réalisé lors de ma formation Developpeur Web & Web mobile, en groupe de 4 personnes.
  <br/> Technologies utilisées : Vite.js / React / TypeScript / Figma / Adobe Illustrator
-  <br/> Vidéo de présentation -> <a href="https://app.videas.fr/53a2be79-87a2-410c-b64f-441ccec25b2f/" style="text-decoration: none;">ici</a>
+  <br/> Vidéo de présentation -> <a href="https://app.videas.fr/53a2be79-87a2-410c-b64f-441ccec25b2f/" style="text-decoration: none;"> &#128065; </a>
 
 
 

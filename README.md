@@ -51,13 +51,13 @@
    <h2> LOST MOVIES </h2>
  <p> Projet réalisé seul lors de ma formation Développeur Web & Web mobile. 
  <br/> Technologies utilisées : Vite.js / React / TypeScript / Node.js / Express.js / Figma / Adobe Illustrator
-  <br/> Vidéo de présentation -> <a href="https://app.videas.fr/53a2be79-87a2-410c-b64f-441ccec25b2f/" style="text-decoration: none;"> &#128065; </a>
+  <br/> Vidéo de présentation -> <a href="https://app.videas.fr/169e204d-4354-445e-bcd3-23b32cb8032f/" style="text-decoration: none;"> &#128065; </a>
 
 
 
  </p>
   
- ![RomainLmn](https://github.com/RomainLmn44/RomainLmn44/blob/main/Nant'Event.jpg)
+ ![RomainLmn](https://github.com/RomainLmn44/RomainLmn44/blob/main/LOST_MOVIE.jpg)
 
 </section>
 

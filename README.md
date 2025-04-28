@@ -21,7 +21,7 @@
  <h2> < Projets /> </h2>
 
   <h2> STREET ART'VENTURE </h2>
- <p> Projet réalisé lors de ma formation Developpeur Web & Web mobile, en groupe de 4 personnes.
+ <p> Projet réalisé lors de ma formation Développeur Web & Web mobile, en groupe de 4 personnes.
  <br/> Technologies utilisées : Vite.js / React / TypeScript / Node.js / Express.js / Figma / Adobe Illustrator
   <br/> Vidéo de présentation -> <a href="https://app.videas.fr/721886b0-23bb-40f1-8e4a-26d1d33ffcfb" style="text-decoration: none;"> &#128065; </a>
 
@@ -35,8 +35,22 @@
  <br/>
 
    <h2> NANT'EVENT </h2>
- <p> Projet réalisé lors de ma formation Developpeur Web & Web mobile, en groupe de 4 personnes.
+ <p> Projet réalisé lors de ma formation Développeur Web & Web mobile, en groupe de 4 personnes.
  <br/> Technologies utilisées : Vite.js / React / TypeScript / Figma / Adobe Illustrator
+  <br/> Vidéo de présentation -> <a href="https://app.videas.fr/53a2be79-87a2-410c-b64f-441ccec25b2f/" style="text-decoration: none;"> &#128065; </a>
+
+
+
+ </p>
+  
+ ![RomainLmn](https://github.com/RomainLmn44/RomainLmn44/blob/main/Nant'Event.jpg)
+
+  <br/>
+ <br/>
+
+   <h2> LOST MOVIES </h2>
+ <p> Projet réalisé seul lors de ma formation Développeur Web & Web mobile. 
+ <br/> Technologies utilisées : Vite.js / React / TypeScript / Node.js / Express.js / Figma / Adobe Illustrator
   <br/> Vidéo de présentation -> <a href="https://app.videas.fr/53a2be79-87a2-410c-b64f-441ccec25b2f/" style="text-decoration: none;"> &#128065; </a>
 
 
